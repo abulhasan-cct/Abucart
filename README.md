@@ -51,7 +51,7 @@ If you're learning Django and want to take your next step to become a profession
 ### Important steps to run the project: XAMPP
 
 if your going to run the application you must install the xampp fro the server side support and mandatory.
-1.install xampp appache friend server download with this respective link (https://www.apachefriends.org/download.html)
+<a>1.install xampp appache friend server download with this respective link (https://www.apachefriends.org/download.html)</a>
 2.set the environment properly to run the project otherwise it didn't.
 3.downlaod and import the database in phpmyadmin named as test.db in the Repositories.
 
