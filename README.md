@@ -58,12 +58,12 @@ Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com
 If you're learning Django and want to take your next step to become a professional Django developer, consider signing up on [JustDjango](https://learn.justdjango.com).
 
 ---
+### Important steps to run the project: XAMPP
 
-<div align="center">
+if your going to run the application you must install the xampp fro the server side support and mandatory.
+1.install xampp appache friend server download with this respective link (https://www.apachefriends.org/download.html)
+2.set the environment properly to run the project otherwise it didn't.
+3.downlaod and import the database in phpmyadmin named as test.db in the Repositories.
 
-<i>Other places you can find us:</i><br>
+---
 
-<a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://www.twitter.com/justdjangocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
-</div>
