@@ -34,26 +34,24 @@ Now you can run the project with this command
 ```
 python manage.py runserver
 ```
-
-**Note** if you want payments to work you will need to enter your own Stripe API keys into the `.env` file in the settings files.
-
----
-
-### Option 1: GitHub Sponsors
-
-Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com/justdjango/django-ecommerce) shows a button where you can Sponsor the contributors.
-
-### Option 2: JustDjango
-
-If you're learning Django and want to take your next step to become a professional Django developer, consider signing up on [JustDjango](https://learn.justdjango.com).
-
----
 ### Important steps to run the project: XAMPP
 
-if your going to run the application you must install the xampp fro the server side support and mandatory.
+if your going to run the application you must install the xampp fro the server side support and mandatory.****
+
+### STEP 1 :
+
 <a>1.install xampp appache friend server download with this respective link (https://www.apachefriends.org/download.html)</a>
+
+### ### STEP 2 :
+
 2.set the environment properly to run the project otherwise it didn't.
+
+
+### ### STEP 3 :
+
 3.downlaod and import the database in phpmyadmin named as test.db in the Repositories.
 
+
 ---
+
 
