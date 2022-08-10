@@ -39,16 +39,6 @@ python manage.py runserver
 
 ---
 
-## Follow the tutorial
-
-This project is part of a [series on YouTube](https://youtu.be/z4USlooVXG0) that teaches how to build an e-commerce website with Django.
-
----
-
-## Support
-
-If you'd like to support this project and all the other open source work on this organization, you can use the following options
-
 ### Option 1: GitHub Sponsors
 
 Sponsor through GitHub Sponsors. On GitHub, [this repository](https://github.com/justdjango/django-ecommerce) shows a button where you can Sponsor the contributors.
